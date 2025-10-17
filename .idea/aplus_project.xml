@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="A+ Courses Project">
+    <option name="importSettings" value="true" />
+    <option name="initialized" value="true" />
+    <option name="language" value="en" />
+    <modules>
+      <module name="O1Library" downloadedAt="2025-09-03T20:31:43.337410Z" version="1.0" />
+      <module name="Pong" downloadedAt="2025-09-03T20:32:09.329706Z" version="1.0" />
+      <module name="Subprograms" downloadedAt="2025-09-03T20:32:19.643236Z" version="1.0" />
+      <module name="GoodStuff" downloadedAt="2025-09-03T20:32:28.022550Z" version="1.0" />
+      <module name="IntroOOP" downloadedAt="2025-09-08T20:10:43.659044Z" version="1.0" />
+      <module name="Odds" downloadedAt="2025-09-11T20:55:01.541614Z" version="1.0" />
+      <module name="FlappyBug" downloadedAt="2025-09-14T06:04:28.256722Z" version="1.0" />
+      <module name="IntroApps" downloadedAt="2025-09-14T11:08:09.842818Z" version="1.0" />
+      <module name="Miscellaneous" downloadedAt="2025-09-19T13:11:56.142027Z" version="1.0" />
+      <module name="Football1" downloadedAt="2025-09-21T08:33:06.609404Z" version="1.0" />
+      <module name="MoreApps" downloadedAt="2025-09-22T14:56:53.685552Z" version="1.0" />
+      <module name="Football2" downloadedAt="2025-09-26T16:28:22.019524Z" version="1.0" />
+      <module name="Stars" downloadedAt="2025-09-27T19:47:40.007924Z" version="1.0" />
+      <module name="Football3" downloadedAt="2025-09-27T20:24:41.181892Z" version="1.0" />
+      <module name="CarSim" downloadedAt="2025-09-29T05:52:50.023649Z" version="1.2" />
+      <module name="Blood" downloadedAt="2025-09-29T17:34:36.884523Z" version="1.0" />
+      <module name="AuctionHouse1" downloadedAt="2025-09-29T18:12:06.219789Z" version="1.0" />
+      <module name="ForLoops" downloadedAt="2025-10-05T10:34:08.068632Z" version="1.0" />
+      <module name="Election" downloadedAt="2025-10-05T14:15:56.410487Z" version="1.0" />
+      <module name="HigherOrder" downloadedAt="2025-10-10T06:28:41.645393Z" version="1.0" />
+      <module name="Snake" downloadedAt="2025-10-10T21:13:42.237746Z" version="1.0" />
+    </modules>
+    <option name="newsReadTime" value="2025-09-27T20:24:33.442166Z" />
+    <option name="url" value="https://gitmanager.cs.aalto.fi/static/O1_2025/modules/o1_course_config.json" />
+  </component>
+  <component name="Duplicate Submission Checker">
+    <submissionHashes>
+      <exercise id="71657" hashes="7AcvpOD234PJSC4+82zIsYeoCIjJvZ32eTsAAbclZ+k=" />
+      <exercise id="71658" hashes="bJ/G0A7PI5lslmso2Kp8POyus49+m9qCGh/Y5Up7XXE=" />
+      <exercise id="71660" hashes="SYEkR0KWtbrAFD1VZhPXN19nk5SFR5Wabk7bMK5S2Cg=" />
+      <exercise id="71661" hashes="3Oc9F1I2/BUNjT/X9fUO+A/FgbBPXHcNGbY1AOmf7HM=" />
+      <exercise id="71662" hashes="c/w2u+u+OSAN24Vwmn9eyf3Gy71DyAtgaZVyfseJFwU=" />
+      <exercise id="71663" hashes="Xsz8sNoJB+lsSqX+L7o2vOjxV1ou4JFD4dr0m71ufZU=" />
+      <exercise id="77314" hashes="ds6AqphxzgI6zWDeEYKVcOCUC62Gje9VCGL7oMu5NGw=" />
+      <exercise id="71674" hashes="YS1/9bDlKIzhr6fx1oVu8uj4/WSqc/o7Z9KSjiRHjNs=" />
+      <exercise id="71677" hashes="XA11HnPxS9M16iDRZQN/eTcnHo+7x4vytdHyQCV+YAo=" />
+      <exercise id="71678" hashes="lwIKde1HGDSM1xuKLDunQXtH6w+sQYhh30VodjtE4hA=" />
+      <exercise id="71679" hashes="MgdBZPhJcNbd4gzUA4aj20Wis7HnX50OwBZRjsifzkc=" />
+      <exercise id="71675" hashes="1Uj70v7TD7D8bLMh6W8Iaviwsoqt2NoY+IJRbh0Jgy8=" />
+      <exercise id="71676" hashes="2yEJKnl6JCEXAjd1SAOXhPfA+VNuxC7jg8TLP85S3GY=" />
+      <exercise id="71496" hashes="6nM/wc4lR5NCs93gih3zNq+rZhViUxnETa7o7zWkF6M=" />
+      <exercise id="71504" hashes="Q/C9qa3S5DMKfqLNo+FBABfvfIsak4HjmJQPjJ//qtI=" />
+      <exercise id="71505" hashes="geWUfse4SMgU+JkRR5zevM/UAQjyFaCPeoank73V0xg=" />
+      <exercise id="71506" hashes="ClphvivQn2hikPDdfAY7jHWZu8ARl021g9y3GRRutNw=" />
+      <exercise id="71509" hashes="hZyL1UH3YsjVSIbjw1uciUNSTxrLOlgd1bAAjC3j764=" />
+      <exercise id="71512" hashes="rlDITKJpBV8t3/p6JRqcIIE93v9aEY6PUSc3zJuXVLs=" />
+      <exercise id="71513" hashes="LOuokZCfVXmBNLHDNmBi27b1cYIk32whTuyhxf0PPVg=;EZUWyvQVmdFXZG6sD4SnWfJTeT5R3/gSm9JiXPdJfvo=;0u5euUgy9+LVt31Sab4DZnc1B/PAPGN11LtEDD/bP/k=" />
+      <exercise id="71515" hashes="pMUDCsX6HatGRQuFaFkUjh6Ic50PHzWfe0uJLS2p3Yg=" />
+      <exercise id="71518" hashes="b21YBzdwRVqr1jvhyZaSKpj5Lt5EbZfPhgcZz9a7Pjs=" />
+      <exercise id="71520" hashes="GY579OI6ZSNI6TuZR+UfgoDHtbBQXCV2ahwyYlKhYLM=" />
+      <exercise id="71522" hashes="GpCo2EUcY93HOLDWZhB/kFWG0NF/iiAbelp7wNbToss=" />
+      <exercise id="71523" hashes="SC5OBKkrJjpDvMr31z5S5U2muzUYZAs7qtyuWJK+KC0=;gFFlgJB0jKpKN35LnsNpcQ+566P1PZ4qa2bgX3+bUTg=" />
+      <exercise id="71525" hashes="xmvq9uOTb7BULDbhKTO05mp0Keq4TUjW+6ND17dtZ/Q=" />
+      <exercise id="71526" hashes="MgEjXd4272fJRti0CxBP3xIVDg2jqtDJ9wQBqFStS8k=" />
+      <exercise id="71527" hashes="3+6f76YRRmYjVXU/xcPULaNmQtt0Bvihrxh19XT2gKs=" />
+      <exercise id="71529" hashes="wge6TCvYO3BHIu5vl/TBsg3yDYY7LrMUkwtCrowZx0s=" />
+      <exercise id="71532" hashes="iHoA8tOQk1r9ywzuOusn4bj9pPtA/fErph7Ue/PxyME=" />
+      <exercise id="71533" hashes="FuMCScPQeHeXGD7ojWx31uQ8kpI3yv1otBAA6+L5yLI=" />
+      <exercise id="71535" hashes="gqUVbS67F8JfMZVdg1JwrlR6PnwiXEOTMmSbYep+3ss=" />
+      <exercise id="71536" hashes="L/49eMznUmfknm337zRH3bnQvZ7uSevEwSxURemg8R8=" />
+      <exercise id="71537" hashes="UDSsDoSqDukMZrjnMtLQGLi7bHUx5Bhf+9dNxXrKslg=" />
+      <exercise id="71538" hashes="2m69fTH2CikJ+IzAwhT1Y+jXhYppnA226+4I7AWeqtw=" />
+      <exercise id="71539" hashes="ccXitZS+C5E2nzAeYRs7L1ivrscF5hcg9wH3AttnMJc=;6mPE4zvppw9SCFW9fUFdZi7vWjonMN3Nu5mRdwJpSuE=" />
+      <exercise id="71540" hashes="Jydvh8FKuPTBzuLbyaLDxe5efbnYY3f/AZOzJiuM85U=" />
+      <exercise id="71541" hashes="HbBJkt0iaq6bwRDLwqU8zMKKBgLadiPCZuWDEmvuYQs=" />
+      <exercise id="71372" hashes="oUkMBzcgUAfE7wo1iseaEWKADCioqdEvfNJt0EK1mDE=" />
+      <exercise id="71373" hashes="P3BnBYPki7RC76exPKE0BLYWaEnCKHWs+kOvZOD6ME8=" />
+      <exercise id="71374" hashes="V+LadhcbRwRy4t00vw/V0iNA1jGhtfjvMN8+D2GbLNI=" />
+      <exercise id="71375" hashes="wLnLPVFoUY5S6P5g9cdMK98JZ3tFEbV4eQDySQ9DdSI=" />
+      <exercise id="71376" hashes="d6o0FqeBLsEcgrHd8CEfMjzPHRSak4IX4KvQEiw8t5E=" />
+      <exercise id="71377" hashes="3O+HPtWlCzG7mukZCMZWPVa3vM+v0Br+Jd864iluQRE=;9gZatqftrNpJY1xVBSImDjN4XxVxc9lyRcbKgUKbtbc=" />
+      <exercise id="71378" hashes="Id+xiautHu3pIeqOaTTkfRBasq0AoAH0WFOLYeOu4NM=" />
+      <exercise id="71379" hashes="b7NfFMhCxrG3qUb2lKVr2Tv7jLG6D+6GmPstU15ttuU=" />
+      <exercise id="71380" hashes="yu8Nyo6a1CfpkSymyHpAd2qcU9gjwQNaHGkDL5cHHrE=" />
+      <exercise id="71381" hashes="EqAhoiuwyWCz2USUnmmdnrV7ScjUojnVEsmtxcBDL9o=" />
+      <exercise id="71382" hashes="edhlWHIIcA8+veWNIluOtOpaCqTFnKz9yAEiaBVvJ4c=" />
+      <exercise id="71383" hashes="9y3w6P5arW/ddXWrzwjusDGj96/mXNieO8x5+K9p9PI=" />
+      <exercise id="71384" hashes="nmR7MlxO/JKVVdj5WIY/UXv4IRfxmoTwPwovbX+ioJA=" />
+      <exercise id="71388" hashes="qR8MdLG+/M6MdYqv5mzG3S6MpyK2iI9vNOS31c5r3AE=" />
+      <exercise id="71393" hashes="CR2i8JeSUNd2O/mV3YwVa4ubG9Fs5kzdviOJ93TE2CA=" />
+      <exercise id="71395" hashes="HLXeMuxWRtcGZjEeNxlLgahwu6yNQU3EHaeLv8RCBP8=" />
+      <exercise id="71396" hashes="0COaDZ2YGWKVCdxqRnN48iYzlljoMAAxQtQNhXeYnHc=" />
+      <exercise id="71397" hashes="Q10CLhpucssnw0nkHqo1DCkCQFNmV9jyS8XGNPHaVxk=" />
+      <exercise id="71400" hashes="jOHSlGOCwLUWhdkbNOa/YXeQr1E9maRMNcMe4EveIM4=" />
+      <exercise id="71401" hashes="g4ZhwRgeQTLqNR/ZBQ9E4jSTxAkO4BBn5tLJCdMv7P0=" />
+      <exercise id="71402" hashes="jH++r7l3/U5C99zwedBdzVDCWTtIalcyILKTSMNZ1LQ=" />
+      <exercise id="71404" hashes="eNG5kHsvBFskjLEPR0SlGmpuNNdWcJKEgPqGibSo8zI=;TLwzxS1IU+lkHnlBCggoWOe16fPT3PvAY3tJVWh0u64=;s7YCpd2VbwI+9cE+nVJ1zEuu893kkhLxVN4aUDMdokM=" />
+      <exercise id="71406" hashes="zo90P2pRJ/RKwdSw6fL/LDO/iyLrYqonyGa+ZmVZfp8=" />
+      <exercise id="71408" hashes="lBEL9Hgc8aUMCm+Lhk3hLXPIOmX8/LT/7vfD8Pl09TY=" />
+      <exercise id="71414" hashes="dR8jOAKXQyJF6VfohL6vTQZO+s1kD5QYiVGxS1shurc=" />
+      <exercise id="71417" hashes="pAZKHOXdV2L9niV1KIE/FjUlWIbHYSkPvL11lZ6GYys=" />
+      <exercise id="71419" hashes="yhyAGyVdINwNGTdw12Q5t1PaNQtELMkKZX6YBd/y17c=;j+MCjIOQa6RpU00W+3VRHuh5nO8lmocvSes66jZmet8=" />
+      <exercise id="71420" hashes="OciuxDb6lMoK+fNT/ejvratCAOqElprzBTU3a1NBjpY=" />
+      <exercise id="71421" hashes="otkzaj8/uTcFz6p7sLcsYhdXXSW1k5MAlkN2eurxspw=" />
+      <exercise id="71422" hashes="mZ93lM3jRYVjBsKTcC7H/AUIX60GvUP7H3hHXSgSMdg=" />
+      <exercise id="71423" hashes="c42h4DB0rcWke3sR6+pJadvlBjeJpKEQe9oxWNyv/hU=" />
+      <exercise id="71434" hashes="f8x6Aq7Rmk7jLY94r/hUX6HQLyru2z46ZL4pPjbDnko=" />
+      <exercise id="71439" hashes="01CU1E5k7UslDw/tzyGaOib2BbWn9yH4PNuF2YyfEa0=" />
+      <exercise id="71447" hashes="vVVhK8PztlnQgGqGjHWw90X4+bdhjem9BiizVX+YZLw=" />
+      <exercise id="71448" hashes="WQV2qsPgzeLUhaJWfXbn3OsKeGcepHQKXTg7hQOVmJM=" />
+      <exercise id="71449" hashes="ulsCfMqL/n8jVW3S58Z+dDc1/fLioH1hONXu5ys8bA0=" />
+      <exercise id="71450" hashes="KRIzNVUFbz4mfa+5YW0nIceib8mGXUm1UE0cGDvitDk=;KNR8UprptG1S6EYLrAk6Iy+SyAqDuBLP8iYOOhBAgvw=" />
+      <exercise id="71451" hashes="GPaMQl7ZSDde3bkeXti5qiexZjtwiRUdXKYNxdxjRXs=" />
+      <exercise id="71452" hashes="T1WiJUsWGaNFHj6lKrwxk7luafMnHwQSreKOZ+DW8QY=" />
+      <exercise id="71453" hashes="oKP/53hl0Iqh6fYUDhUa6mZrQ7olQ0+0TEg6dsTFQq8=" />
+      <exercise id="71454" hashes="J9ZvwNYGMIWJMNFSymg0cwjJIqfQ+vXNtHv0SFelOL4=" />
+      <exercise id="71455" hashes="0NTVU7k4G8IePPxQRhOyKsD/wwaRJ5oFhrdG4WjFB1A=;/dd7575Jie2I3WiU4rCEZHtRchtZXdJCXLFVhpuJp+0=" />
+      <exercise id="71461" hashes="oEnNjJKf6z7nehvrKjDYxaRx3BH4WauADo3fl2YoiuA=;UoQeaglKVIIdlhVZ77h0CmHy+DNzDPXeSuOVLXbZBcw=" />
+      <exercise id="71757" hashes="OEpGG+UcFALj1qAyghycQjjD88O28puo+6F4PyR8ZPA=" />
+      <exercise id="71758" hashes="tWkDIN1nhw5KqPZ+0EMPwvv7cOiZmyauivaZvP+QkYM=" />
+      <exercise id="71759" hashes="Ougj+x0L321VlNet2NevitGRKzt60EPyL5UlkgwaKnE=;8fa3zxQIa5/dKzkTsTOf78VNpqCAZTmyyXwM7irTuhk=" />
+      <exercise id="71760" hashes="yEkm9N//AV2FwyyeHPkGI5VKcRdhKluithOWc8GI7Jo=;qQmfURGrSoH2YkcMt3F8fd1iwNMQRhqXb5YqZodimmI=;MFv6jNFqjiKVVsTervrcJf9uy08zufCqzLDv6f/AQz8=;3DcHwvZok+PkUG2iWIC4mfnvG5ncgZGEc01Mo4QetPM=" />
+      <exercise id="71767" hashes="2oXjFoFzt+NHSPB1VtIv3v+4twxhpuyEMsCg0UJD7vs=" />
+      <exercise id="71771" hashes="7g2ZYoRfmOC2a3+etqQTuLTpWJEK5jevhohmyymhhkk=" />
+      <exercise id="71772" hashes="StPTlLkNvpk3wpj/llc3kt/9UckA2ORhGSoGaCoeKu0=" />
+      <exercise id="71773" hashes="LBbzLIQlVcK0dZJ63iKlz7lQzOdcvyhw6y9ucmxobGI=" />
+      <exercise id="71761" hashes="r6KU73+0GVxRDdv07daWsoyMw/vq9Ga9WjLcVhrJSA0=;pmVHtUeUa3v8HwOBuRsQzMP8+aU6uZj973XeDpm0yVQ=;9a7E/Bz02jNikfTOjjEhCFypNWWzCTqinr1ufbdbVis=" />
+      <exercise id="71762" hashes="/KAXcggM6owe5diS2hOHRL0DaE+bT3UYIupHG8OsNao=;wNsBs66Avzi02OuYESdJ2E4QewlOtLuz/4r5/xKnX6E=;ddxNyzBGch5z/SITYMqAilVSjI27Wma+P1IEWPhc6LY=" />
+      <exercise id="71784" hashes="YkiFbeZNaPfDlDa6grfyweeWbfpWr3Qgz2lEBj2RYrA=" />
+      <exercise id="71787" hashes="X4H5xcGBDn+8u4adHbJNK87bFH8Y8HuoM5uUwITrWE8=" />
+      <exercise id="71788" hashes="Z9tvsll6HZUIffKi5J4kTgqiRG49nwZs8GjdvkvI9OE=;R+oiFAo8mUIfOSOnFxsZlDXi2fE6LwrCNo+MHdBRhek=" />
+      <exercise id="71789" hashes="nBRiSyaKV6g+mlGHsplbYy4zs5zM99cbNkOKKjqGP/Y=" />
+      <exercise id="71790" hashes="d+nbjh7V8yzYP6+w6nqx/WtZwWitSPlNdrsNqYZX7EY=" />
+      <exercise id="71791" hashes="02UWIiQQ0mJJIuMjE34Da9W+31NGPTyNcetCsuJ7vMg=" />
+      <exercise id="71792" hashes="2Qw0qY/nOjPe4+wKfsz/CCTn5yN9uSTeSyyb61/Isnc=;530NDmWe705WdHbWRWoUyeBponmjmJZBc0TM+FSfHUg=" />
+      <exercise id="71794" hashes="S0d2lhWRGrgXsajlw6cWg1lpq5jRzQDwDg6duqG+3d0=" />
+      <exercise id="71796" hashes="PuGsPnNpz8zg/LSq+VD6auMK9YLGHK8/Ugoe/cf4od4=" />
+      <exercise id="71711" hashes="+c01NTju48DY1Ex6smooYY4i2R3I7/NS919CfbNFAmo=" />
+      <exercise id="71712" hashes="mpEKTF93uyAyl2qqtHRwB7VheQLW7z7uZiqRqKCYX+Y=" />
+      <exercise id="71713" hashes="PEMEkBgFQp9v6AaxU2VIztVcI4vmJS0ZRU1jcfV2NtI=" />
+      <exercise id="71714" hashes="v0xXOm0zmPIs7hE4iTwx3xr13CM8QrZSAOaQo/UBjOw=" />
+      <exercise id="71715" hashes="zGYWIy/vSk8REzR/hKYeaZauSXG0QW/KU8ZkETAk/8o=" />
+      <exercise id="71718" hashes="proj8T116CPG0+Vk4Uo1GW9KH2hM/B3hQxFOtnL9FUc=" />
+      <exercise id="71719" hashes="g8dTbOlnN+hgW7QkxEGOjQ7mPFI96b4eEAXaZfgJ77k=" />
+      <exercise id="71720" hashes="vIkU17PvKr6IuenLaKY0Py5083K/SUjDiPtE8t++9Eo=" />
+      <exercise id="71721" hashes="h4IuJfNy481LdSeUI67bDGkPROJKpAW+LeoqICnzsaw=" />
+      <exercise id="75443" hashes="LcSl19XVwEK+IxGULlPZFE1Y4j1urlpXGp3RkmqyioM=" />
+      <exercise id="71738" hashes="uP7H+lT7adkT2F2ZyIRbrXu/P2r6kIx3e7Imp1O5+JI=" />
+      <exercise id="75442" hashes="hYtSryMCrgfDB3shU4O+uow3DG9FayOpVrXFMVfVC4Q=" />
+      <exercise id="71324" hashes="9K5dm1Jyk5DmBIwODo0cCCB2eCm8CsBAO9bFQPwguMk=" />
+      <exercise id="71325" hashes="WadQpm8cBN1cguCg47NQRLDGEj52X1KXpoUUfowqyK0=" />
+      <exercise id="71327" hashes="miN+q3YtMn6hnfuaC3JmGBf2qa/TlQ2TvAYv7iVq7AI=;aYGY3aW9ZjHq7GAPnf6tRdfAdX10M2+03qOkvDJ/W0M=;MmF43G8L2U3ekFPZp4a2iyodsaDDHv/zg9ld9+3/1u4=" />
+      <exercise id="71328" hashes="w5peZhCf+UP+TVe6bIJY5/pwyTBdGcSqKKTFLqDXHxE=" />
+      <exercise id="71329" hashes="PT65VMXygDvHpolzqILURPWBOS5XeBfZTYhMyQA9nOY=" />
+    </submissionHashes>
+  </component>
+</project>
