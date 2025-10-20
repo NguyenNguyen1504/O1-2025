@@ -31,3 +31,21 @@ def blur(pic: Pic): Pic = ???
   val originalPic = Pic("kid.png")
   val blurredPic = blur(originalPic)
   originalPic.leftOf(blurredPic).show()
+
+import scala.io.StdIn.*
+
+@main def program2() =
+  val firstInputs  = LazyList.continually( readLine("Enter a number: ") )
+  val secondInputs = LazyList.continually( readLine("Enter a number: ") )
+  println(firstInputs.take(4).mkString(","))
+  println(secondInputs.take(4).map( _.toInt ).product)
+
+@main def program1() =
+  val userInputs = LazyList.continually( readLine("Enter a number: ") )
+  println(userInputs.take(4).mkString(","))
+  println(userInputs.take(4).map( _.toInt ).product)
+
+@main def program4() =
+  def inputs = LazyList.continually( readLine("Enter a number: ") )
+  val result = inputs.flatMap( _.toIntOption ).head
+  println(result)

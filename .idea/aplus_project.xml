@@ -26,6 +26,9 @@
       <module name="Election" downloadedAt="2025-10-05T14:15:56.410487Z" version="1.0" />
       <module name="HigherOrder" downloadedAt="2025-10-10T06:28:41.645393Z" version="1.0" />
       <module name="Snake" downloadedAt="2025-10-10T21:13:42.237746Z" version="1.0" />
+      <module name="Sentiments" downloadedAt="2025-10-18T12:17:23.900884Z" version="1.0" />
+      <module name="Traits" downloadedAt="2025-10-20T10:49:07.637709Z" version="1.0" />
+      <module name="AuctionHouse2" downloadedAt="2025-10-20T18:12:23.011325Z" version="1.0" />
     </modules>
     <option name="newsReadTime" value="2025-09-27T20:24:33.442166Z" />
     <option name="url" value="https://gitmanager.cs.aalto.fi/static/O1_2025/modules/o1_course_config.json" />
@@ -149,6 +152,14 @@
       <exercise id="71327" hashes="miN+q3YtMn6hnfuaC3JmGBf2qa/TlQ2TvAYv7iVq7AI=;aYGY3aW9ZjHq7GAPnf6tRdfAdX10M2+03qOkvDJ/W0M=;MmF43G8L2U3ekFPZp4a2iyodsaDDHv/zg9ld9+3/1u4=" />
       <exercise id="71328" hashes="w5peZhCf+UP+TVe6bIJY5/pwyTBdGcSqKKTFLqDXHxE=" />
       <exercise id="71329" hashes="PT65VMXygDvHpolzqILURPWBOS5XeBfZTYhMyQA9nOY=" />
+      <exercise id="71340" hashes="X5Goj6pHWNTJztpQhMhaMj+1QO9XWoRjVA/0U0v5Xe0=" />
+      <exercise id="71341" hashes="/0N4nClHH5l84QBwJFHGFB54ZhwFmH2J4vuNEeun9+E=;KL/gacN2bE/Cl919lxDr2qqwx16rlQvYYWKpFN8txoU=" />
+      <exercise id="71342" hashes="wSlC+IzGRPkUc1TVlkqFMxv7LWczZZWPh6BSAp5B5jE=" />
+      <exercise id="71347" hashes="lb2/llSaTs9zSMBJTEgrozNXOIlMT0dNXAkMNwmdXOg=;B0EygFCIapXKeSVg6meQJIyyRMo/MHel38CYz2dfx5c=" />
+      <exercise id="71351" hashes="7qB+AtOfgUkky3OsWOZqiqw73ah+qwO2oYQpl2FRsJo=" />
+      <exercise id="71353" hashes="a6lgNzogoaU5dJRTG1GJbVcSW9DzO5F7AUNl5o1ECYw=;AlHdXHHF9jajFIdhcQQv4bGvSIHh8IC+6ybUBCuORhE=;ORLE7TZyazQI5KJPSEOtxwA7bFB1hh7/G3bp5mmaxnE=;kTQibRGHqd3lrq+g1/Gqo8ZPpm6E6Nmm8qdXUCT3fhs=" />
+      <exercise id="71355" hashes="6ucoR2xedssjAzd3wpWpFhEbsou3e1q3gWU8WK7Lzm8=" />
+      <exercise id="71354" hashes="Ug083Nu1QN7FIDdM369Lb+iN6+zyQeDTqX41EUNqhgw=;p1Pg4YFkSgFK8mxDe2YtzCEtWCCFqOBQ59WRtUhFIhE=" />
     </submissionHashes>
   </component>
 </project>

@@ -54,7 +54,7 @@ class AuctionHouse(val name: String):
   def numberOfOpenItems: Int =
     var openCount = 0
     for current <- this.items do
-      if ??? then     // TODO: write a method call that works in place of ???
+      if current.isOpen then     // TODO: write a method call that works in place of ???
         openCount += 1
     openCount
 
@@ -81,7 +81,7 @@ class AuctionHouse(val name: String):
     val purchases = Buffer[EnglishAuction]()
     for current <- this.items do
       if current.buyer == Some(buyer) then
-        ??? // TODO: replace ??? with something that works
+        purchases += current
     purchases.toVector
 
 end AuctionHouse
