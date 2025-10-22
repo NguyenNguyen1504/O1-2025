@@ -2,16 +2,18 @@ package o1.gender
 
 // You’ll complete this code in a Chapter 7.4 assignment.
 
-trait GenderResponse  // TODO: seal this
+sealed trait GenderResponse  // TODO: seal this
 
 object Female extends Selected("female")
-object Male   extends Selected("male")
+object Male extends Selected("male")
+object NonBinary extends Selected("non-binary")
 // TODO: add a NonBinary object with the text "non-binary"
 
-trait Selected(val chosenLabel: String) extends GenderResponse  // TODO: seal this too
+sealed trait Selected(val chosenLabel: String) extends GenderResponse  // TODO: seal this too
 
-class Specified(val description: String) // TODO: should be a subtype of GenderResponse
+class Specified(val description: String) extends GenderResponse// TODO: should be a subtype of GenderResponse
 
+object PreferNotToSay extends GenderResponse
 // TODO: add a PreferNotToSay object
 
 
@@ -21,7 +23,7 @@ class Specified(val description: String) // TODO: should be a subtype of GenderR
 // cover all cases of the GenderResponse hierarchy and the warning is apt: this code will
 // crash at runtime. The compiler is able to issue such warnings for sealed traits.
 
-/*
+
 @main def test() =
   for response <- Vector(NonBinary, Male, PreferNotToSay, Female, Specified("agender")) do
     response match
@@ -29,6 +31,7 @@ class Specified(val description: String) // TODO: should be a subtype of GenderR
         println(s"selected option: ${selectedGender.chosenLabel}")
       case specifiedGender: Specified =>
         println(s"self-described: ${specifiedGender.description}")
+      case PreferNotToSay =>
+        println("not given")
   end for
-*/
 
