@@ -14,6 +14,9 @@ class Society(val name: String):
   def getByID(memberID: Int): Option[Member] = 
     this.members.get(memberID)
 
+  def yearOfDeath(memberID: Int): Option[Int] =
+    val yodList = this.members.map( (id, member) => (id, member.yearOfDeath) )
+    yodList.getOrElse(memberID, None)
   // TODO: add yearOfDeath as instructed in Chapter 9.2.
 
 end Society

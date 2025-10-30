@@ -32,6 +32,9 @@
       <module name="Viinaharava" downloadedAt="2025-10-21T07:30:37.823526Z" version="1.0" />
       <module name="Robots" downloadedAt="2025-10-21T09:09:16.768776Z" version="1.0" />
       <module name="CitySim" downloadedAt="2025-10-22T06:11:05.205080Z" version="1.0" />
+      <module name="WhileLoops" downloadedAt="2025-10-23T16:56:36.085337Z" version="1.0" />
+      <module name="AdventureDraft" downloadedAt="2025-10-28T18:03:43.245513Z" version="1.0" />
+      <module name="Adventure" downloadedAt="2025-10-28T19:12:22.573116Z" version="1.0" />
     </modules>
     <option name="newsReadTime" value="2025-09-27T20:24:33.442166Z" />
     <option name="url" value="https://gitmanager.cs.aalto.fi/static/O1_2025/modules/o1_course_config.json" />
@@ -171,6 +174,17 @@
       <exercise id="71475" hashes="bZOPVtZN4Qz2iQNmwINQ6SEBptPNd0ORxF2TNNO62BY=;NUwciTDNiqZfP9B8Qb+szk0jC3bgjMGL2njAi0PDcDo=;J2lpslWlG2LxzA/RLBYXh3zX8CB693Cu1+yj6fCfDOg=;J+yBu0asHVDYIr8fr0DNx/v8t3+gVBHPcm7GRzWEHaw=;RAQ5MKVlcLzMpADHIU6EiLHv2EwIjdwaPjTxVFOFpXI=;rIaolC7u7AzagfanyemvbuFEsy/RmPJAoQuhJl+6FCg=;rhDx/2QddAuEBw9Tn0EsV9NvLRnER/59gAH3wonQzLs=;3O62Nwq7ac1Ya5ClUjkvIGaPX62E5tYdD4rjxionuZw=" />
       <exercise id="71476" hashes="EZrkAr2du+oObKn9TMdf5wjUJah0XSkDwq5LjkjYNBo=;s/vaPukXaFTCUheKrRjABa8gdMm+xORL9AA/CIsyasQ=;jXzF8vduJGXAk1I17t2S7bePO1EQ5cQWYBFJazpJA0k=" />
       <exercise id="71480" hashes="lLZiILKyKCRm2ccVtKmaKxf7OnHwjwBTGpIapYnb64U=;ughE+DhmZstQrNUcF0YLHOlslJqtDRtpQVKjCHM3ns8=;dRJOJ22q/ngYRy9Sf9jwXpDIec7gN/PhORy3BKqF0pk=" />
+      <exercise id="71572" hashes="AHMR9Qn/4MVpyH48EvpCz/9Xb3kLJrUY4lC7NWsYn9I=" />
+      <exercise id="71573" hashes="gcCwB0QeSUMQOIbirtVv3O7r7rXcEdIimvL2YGlymEY=;Jrl7BO5ON+6AmtP2Tfn04mOJSKx1jiMAZs/J2ClIL7s=" />
+      <exercise id="71575" hashes="nsEylZ7WHmlWZzeRRFKbNRyuczW4HvCWAwIyGYlebkw=" />
+      <exercise id="71576" hashes="Ilh6XVz22uXugHR9Aj/T71u3LsMRsDIdl2tsYfEmu9s=;J94x4fBAtIUVb/QCBkiLG1f5ZK3MJIQOlwq4q0yBCp0=;W37GymzOkWAK1ZPWcXQp8Gg5AUkQwDICwtQBUp0WZfw=" />
+      <exercise id="71577" hashes="RQqoy5hhZ8NvOQ8xuHi5MnL0J8bABjXLpRrzUFoY4ag=;3EuSLBBRC9hqjt04ggXT3zchwfmRg6Iil5QxRgV0kKo=" />
+      <exercise id="71578" hashes="DshvufY2/ztEijwcwKotTwpZHdMLEquKDf3kLuPSwKM=" />
+      <exercise id="71580" hashes="7KFCAd6XbBPu1IMcUgXkTfAnfzh0WwBUZN1diq1+CmA=" />
+      <exercise id="71582" hashes="e5/OelJuw0hjmst0hZeThM+TQzyBM8ePNJkn7UI95sg=" />
+      <exercise id="71583" hashes="UcnaskXd/Zb6rBRHM1c6+P8HfaV/7O+LXwRiC2wbeuM=" />
+      <exercise id="71586" hashes="kjV56PQEKTxEmQMmUiJPpqwapm9GcPctdrdrRstbfJA=" />
+      <exercise id="71589" hashes="EZBaXu2FwX14kqJ+2E2xMPU+Kb7/Rkogdx4qHXCQ8GQ=;f3S0EprDeHpWHWJxkqImyZ60rSSaSkRXelUQEHpl5Ng=;GaX+9MOijEH57z1kDOGwYGWLpX7KT5HC/fLuCe7dnXc=" />
     </submissionHashes>
   </component>
 </project>

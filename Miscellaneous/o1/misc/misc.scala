@@ -32,3 +32,11 @@ def tempo(text: String) =
   text.drop(text.indexOf("/") + 1).toIntOption match
     case Some(n) => n
     case None => 120
+
+def toMinsAndSecs(seconds: Int) =
+  val secs = seconds % 60
+  val mins = (seconds - secs) / 60
+  (mins, secs)
+
+def isAscending(vector: Vector[Int]) =
+  vector.zip(vector.tail).forall( pair => pair(0) <= pair(1) )
